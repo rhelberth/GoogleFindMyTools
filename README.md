@@ -51,3 +51,19 @@ https://petsymposium.org/popets/2025/popets-2025-0147.pdf
 https://developers.google.com/nearby/fast-pair/specifications/extensions/fmdn
 
 
+> #### link collection
+> * https://github.com/seemoo-lab/openhaystack
+> * [Tracking on non-Macs seemoo-lab/openhaystack#63](https://github.com/seemoo-lab/openhaystack/issues/63)
+> * https://github.com/biemster/FindMy/
+> * https://github.com/dchristl/macless-haystack
+> * https://github.com/koenvervloesem/openhaystack-zephyr
+> * https://github.com/leonboe1/GoogleFindMyTools
+> * [Rotating Keys / Official App Support leonboe1/GoogleFindMyTools#58](https://github.com/leonboe1/GoogleFindMyTools/issues/58)
+> * [Zephyr-based Firmware leonboe1/GoogleFindMyTools#15](https://github.com/leonboe1/GoogleFindMyTools/pull/15)
+> * https://github.com/derGraph/multiTag
+> * https://github.com/NordicBuilder/sdk-nrf/tree/master/subsys/bluetooth/services/fast_pair/fmdn
+> * https://github.com/NordicBuilder/sdk-nrf/tree/master/samples/bluetooth/fast_pair/locator_tag
+> * [Add initial support for Google's Find My Device network MatthewKuKanich/FindMyFlipper#115](https://github.com/MatthewKuKanich/FindMyFlipper/pull/115)
+> * https://developers.google.com/nearby/fast-pair/specifications/extensions/fmdn
+
+
