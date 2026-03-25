@@ -45,3 +45,5 @@ For more information, check the [README in the ZephyrFirmware folder](ZephyrFirm
 
 ### iOS App
 You can also use my [iOS App](https://testflight.apple.com/join/rGqa2mTe) to access your Find My Device trackers on the go.
+
+https://petsymposium.org/popets/2025/popets-2025-0147.pdf
